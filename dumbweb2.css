@@ -1,0 +1,33 @@
+h1{
+    color:black;
+    font-family: Metal Lord;
+    font-size: 48px;
+}
+
+h2{
+    font-family: Roboto Condensed;
+    font-weight: 400;
+}
+
+h3{
+    font-weight: bold;
+}
+
+a{
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+p{
+    color: #3d3d3d;
+    padding: 0cap;
+}
+
+body{
+    font-family: Roboto Condensed;
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 70px;
+}
