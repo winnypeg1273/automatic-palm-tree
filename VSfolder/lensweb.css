@@ -1,0 +1,86 @@
+.lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.article{
+    line-height: 30px;
+    font-size: 20px;
+    letter-spacing: 0.7px;
+    margin-top: 70px;
+    margin-left: 136px;
+    margin-right: 536px;
+    margin-bottom: 70px;
+}
+
+img{
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
+    width: 90%;
+}
+
+p{
+    font-family: "Lato";
+    font-weight: 400;
+    color:rgb(84, 84, 84);
+}
+
+a{
+    color: rgb(207, 0, 0);
+}
+
+b{
+    font-family: "Open Sans";
+    font-size: 18px;
+}
+
+.textbold{
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 18px;
+    a{
+        font-family: "Lato";
+        font-weight: normal;
+        font-size: 20px;
+    }
+}
+
+.intro{
+    font-family: "Open Sans";
+    font-weight: 1000;
+    font-size: 18px;
+}
+
+.date{
+    font-family: "Noto Sans";
+    color: rgb(127, 127, 127);
+    b{
+        font-weight: 500;
+        color:rgb(38, 38, 38);
+    }
+}
+
+.lens{
+    font-family: "Montserrat";
+    font-weight: 600;
+    color:rgb(38, 38, 38);
+}
+
+.sublens{
+    font-family: "Open Sans";
+    font-weight: 700;
+    color:rgb(38, 38, 38);
+    font-size: 21px;
+    margin-top: 70px;
+}
+
+.spec{
+    font-style: normal;
+    margin-top: 10px;
+}
+.para{
+    font-style: normal;
+    margin-top: 7px;
+}

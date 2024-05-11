@@ -1,0 +1,49 @@
+body{
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 70px;
+}
+
+.container {
+    position: relative;
+    color: white;
+}
+
+.center{
+    position: absolute;
+    top: 67px;
+    left: 70px;
+    right: 70px;
+}
+
+.desc{
+    font-family: Gentium Plus;
+    text-align: center;
+    font-size: 46px;
+}
+
+.quote{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+    text-align: right;
+    margin-top: 57px;
+    margin-right: 70px;
+    text-decoration: underline;
+}
+
+.verseno{
+    color:gray;
+    vertical-align: super;
+    font-size: 22px;
+}
+
+.word1{
+    color:rgb(238, 62, 62);
+}
+
+.word2{
+    color:rgb(200, 143, 255);
+    font-style: italic;
+}
